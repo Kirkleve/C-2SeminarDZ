@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\Element4.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\Element4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\Element4.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\Element4.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\Element4.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\bin\Debug\net6.0\Element4.exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\bin\Debug\net6.0\Element4.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\bin\Debug\net6.0\Element4.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\bin\Debug\net6.0\Element4.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\bin\Debug\net6.0\Element4.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\Element4.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\refint\Element4.dll
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\Element4.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\Element4.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#2 семинарДЗ\Element4\obj\Debug\net6.0\ref\Element4.dll
