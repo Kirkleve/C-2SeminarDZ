@@ -3,33 +3,34 @@
 //Доп. задача с усложнением: на отгадывание дается 3 попытки.
 //По возможности использовать функции.
 
-Console.WriteLine("Отгадай число: ");
-
-int Mystery = Convert.ToInt32(Console.ReadLine());
-
 int Rand = new Random ().Next(1,1000);
-
+Console.WriteLine(Rand);
+Console.WriteLine("Отгадай число: ");
+int Mystery = Convert.ToInt32(Console.ReadLine());
 int index = 0;
-
-while (index < 3)
+while (index < 2)
 {
     if (Mystery == Rand)
     {
         Console.WriteLine("Мои поздрвавления вы угадали!))");
+        break;
     }
     else
     {
         if (Rand > Mystery)
         {
-            Console.WriteLine("Больше");
-            index++;
+            Console.WriteLine("Загаданное число больше, попробуй снова");
+            
         }
         else
         {
-            Console.WriteLine("Меньше");
-            index++;
+            Console.WriteLine("Загаданное число меньше, ещё есть попытка");
+            
         }
-        return;
+    int last = Convert.ToInt32(Console.ReadLine());   
     }
+index++;
 }
+Console.WriteLine("игра закончина");
+
 

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\C#2 семинарДЗ\\Element2\\Element2.csproj",
+      "projectUniqueName": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Учёба\\C#\\C#2 семинарДЗ\\Element2\\Element2.csproj",
       "projectName": "Element2",
-      "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\C#2 семинарДЗ\\Element2\\Element2.csproj",
+      "projectPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Учёба\\C#\\C#2 семинарДЗ\\Element2\\Element2.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\C#2 семинарДЗ\\Element2\\obj\\",
+      "outputPath": "C:\\Users\\Asus\\OneDrive\\Рабочий стол\\Учёба\\C#\\C#2 семинарДЗ\\Element2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config"
