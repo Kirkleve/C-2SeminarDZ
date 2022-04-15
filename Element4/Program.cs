@@ -3,34 +3,52 @@
 //Доп. задача с усложнением: на отгадывание дается 3 попытки.
 //По возможности использовать функции.
 
-int Rand = new Random ().Next(1,1000);
-Console.WriteLine(Rand);
+int rand = new Random ().Next(1,1000);
+Console.WriteLine(rand);
 Console.WriteLine("Отгадай число: ");
-int Mystery = Convert.ToInt32(Console.ReadLine());
+int mystery = Convert.ToInt32(Console.ReadLine());
 int index = 0;
+
 while (index < 2)
 {
-    if (Mystery == Rand)
+    if (mystery == rand)
     {
         Console.WriteLine("Мои поздрвавления вы угадали!))");
         break;
-    }
-    else
+    }    
+    if (rand > mystery) 
     {
-        if (Rand > Mystery)
-        {
-            Console.WriteLine("Загаданное число больше, попробуй снова");
-            
-        }
-        else
-        {
-            Console.WriteLine("Загаданное число меньше, ещё есть попытка");
-            
-        }
-    int last = Convert.ToInt32(Console.ReadLine());   
+        Console.WriteLine("Загаданное число больше, попробуй снова");
+        index++;
     }
-index++;
+    else 
+    {
+        Console.WriteLine("Загаданное число меньше, ещё есть попытка");
+        index++;
+    }     
+    int last = Convert.ToInt32(Console.ReadLine());  
+    
+    if (rand > last) 
+    {
+        Console.WriteLine("Загаданное число больше, попробуй снова");
+        index++;
+    }
+    else 
+    {
+        Console.WriteLine("Загаданное число меньше, ещё есть попытка");
+        index++;
+    }     
+    int last2 = Convert.ToInt32(Console.ReadLine());
+    
+    if (rand > last2) 
+    {
+        Console.WriteLine("Загаданное число больше, увы ты проиграл");
+        break;
+    }
+    else 
+    {
+        Console.WriteLine("Загаданное число меньше, увы ты проиграл");
+        break;
+    }     
 }
 Console.WriteLine("игра закончина");
-
-
