@@ -1,0 +1,15 @@
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\Element4dop.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\Element4dop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\Element4dop.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\Element4dop.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\Element4dop.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\bin\Debug\net6.0\Element4dop.exe
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\bin\Debug\net6.0\Element4dop.deps.json
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\bin\Debug\net6.0\Element4dop.runtimeconfig.json
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\bin\Debug\net6.0\Element4dop.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\bin\Debug\net6.0\Element4dop.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\Element4dop.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\refint\Element4dop.dll
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\Element4dop.pdb
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\Element4dop.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Рабочий стол\Учёба\C#\C#2 семинарДЗ\Element4dop\obj\Debug\net6.0\ref\Element4dop.dll

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Element4")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Element4dop")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Element4")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Element4")]
+[assembly: System.Reflection.AssemblyProductAttribute("Element4dop")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Element4dop")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "Element4/1.0.0": {
+      "Element4dop/1.0.0": {
         "runtime": {
-          "Element4.dll": {}
+          "Element4dop.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "Element4/1.0.0": {
+    "Element4dop/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

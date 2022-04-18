@@ -14,6 +14,6 @@ if (num2 == 0)
 else
 {
     string stringnum = Convert.ToString(num1);
-    Console.WriteLine(stringnum[2]);
+    Console.WriteLine($"Третье число {stringnum[2]}");
 }
 
