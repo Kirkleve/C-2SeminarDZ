@@ -13,6 +13,7 @@ if (num2 == 0)
 }
 else
 {
-    Console.WriteLine(num2);
+    string stringnum = Convert.ToString(num1);
+    Console.WriteLine(stringnum[2]);
 }
 

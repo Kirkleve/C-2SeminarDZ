@@ -23,23 +23,34 @@ void Print (int arg)
 int last = FestChanse(rand, mystery);
 int FestChanse(int ran, int mys)
 {
-    if (ran > mys) 
+    if (ran == mys)
     {
-        Console.WriteLine("Загаданное число больше, попробуй снова");
-        index++;
+        Console.WriteLine("Мои поздрвавления вы угадали!");
+        return ran;
     }
-    else 
-    {
-        Console.WriteLine("Загаданное число меньше, ещё есть попытка");
-        index++;
-    }     
-    int last = Convert.ToInt32(Console.ReadLine());
-    return last;
+    
+        if (ran > mys) 
+        {
+            Console.WriteLine("Загаданное число больше, попробуй снова");
+            index++;
+        }
+        else 
+        {
+            Console.WriteLine("Загаданное число меньше, ещё есть попытка");
+            index++;
+        }     
+        int last = Convert.ToInt32(Console.ReadLine());
+        return last;
 }
 
 int last2 = SecondChanse(rand, last);
 int SecondChanse(int ran, int mys)
 {
+    if (ran == mys )
+    {
+        Console.WriteLine("Мои поздрвавления вы угадали!");
+        return ran;
+    }
     if (ran > mys) 
     {
         Console.WriteLine("Загаданное число больше, попробуй снова");
@@ -57,6 +68,11 @@ int SecondChanse(int ran, int mys)
 int lastchense = LastChanse(rand, last2);
 int LastChanse(int ran,int mys)
 {
+    if (ran == mys)
+    {
+        Console.WriteLine("Мои поздрвавления вы угадали!");
+        return ran;
+    }
     if (ran > mys) 
     {
         Console.WriteLine("Загаданное число больше, увы ты проиграл");
@@ -71,15 +87,9 @@ int LastChanse(int ran,int mys)
 
 while (index < 2)
 {
-    if (rand == mystery)
-    {
-        Console.WriteLine("Мои поздрвавления вы угадали!");
-    }
-    else
-    {
     Print(last);
     Print(last2);
     Print(lastchense);
-    }
+    
 }
 
